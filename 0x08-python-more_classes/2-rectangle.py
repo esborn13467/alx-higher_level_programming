@@ -1,6 +1,4 @@
 #!/usr/bin/python3
-
-
 """Defines a Rectangle class."""
 
 
@@ -14,7 +12,6 @@ class Rectangle:
             width (int): The width of the new rectangle.
             height (int): The height of the new rectangle.
         """
-
         self.width = width
         self.height = height
 
